@@ -7,8 +7,11 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: '창원 상남동 프라이빗 라운지 | DOPAMINE',
+  description: '창원 상남동 프라이빗 라운지 DOPAMINE',
+  verification: {
+    google: 'LDwYM7oVAEBKoyeylK2ww0wGyjd0gwQcB4XgPqfvwZQ',
+  },
   generator: 'v0.app',
   icons: {
     icon: [
