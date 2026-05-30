@@ -9,9 +9,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'v0 App',
   description: 'Created with v0',
-  verification: {
-  google: 'LDwYM7oVAEBKoyeylK2ww0wGyjd0gwQcB4XgPqfvwZQ',
-},
   generator: 'v0.app',
   icons: {
     icon: [
